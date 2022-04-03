@@ -1,5 +1,5 @@
 ## SolBucks
-Started with the implementation of 'Buy Me A Coffee' with $SOLANA.
+Support your favourite creators with $SOLANA.
 
 ## Usage
 Goto solbucks.pythonanywhere.com to create your profile!
